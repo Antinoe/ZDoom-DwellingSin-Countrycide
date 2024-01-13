@@ -11,7 +11,7 @@ Class Trenchgun : SinWeapon replaces Shotgun{
 		Scale 0.7;
 		SinItem.Description "A single-shot trenchgun commonly used by the forces of the Exousian Caliphate.";
 		SinWeapon.AmmoType "Shotgun";
-		SinWeapon.AmmoLoaded "SinShellBuckshot";
+		SinWeapon.AmmoLoaded "ShellPack";
 		SinWeapon.FireType FIRE_AUTO;
 		SinWeapon.ReloadType RELOAD_BOTTOM;
 		SinWeapon.HitscanDamage -1;
