@@ -1,4 +1,4 @@
-This is a compatibility patch for Dwelling Sin that allows it to work with Trenchworks' Countrycide.
+This is a compatibility patch for Trenchworks' Countrycide that allows it to work with Jarewill's Dwelling Sin.
 ![DSin Countrycide](https://github.com/Antinoe/ZDoom-DwellingSin-Countrycide/assets/88167211/689fcd52-6cc7-465d-8667-c30172c68df3)
 
 # Features:
