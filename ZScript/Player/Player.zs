@@ -24,9 +24,7 @@ class MasterTemplar : SinPlayer
 		SinPlayer.MeleeHitSound "KnifeHitSkin"; SinPlayer.MeleeMissSound "KnifeSwing"; SinPlayer.MeleeKillSound "*fist";
 		SinPlayer.MeleeMassThreshold 100;
 		Player.DisplayName "Master Templar";
-		//	There needs to be Templar face sprites so the Inventory UI
-		//	doesn't show Doomguy.
-		Player.Face "STF";
+		Player.Face "MAS";
 		Player.Portrait "M_BOX1";
 		Player.StartItem "SinLoadoutTemplar";
 		
@@ -42,19 +40,6 @@ class MasterTemplar : SinPlayer
 		Player.DisplayName "MasterTemplar";
 		Player.CrouchSprite "PLYC";
 		
-		//	We will use SinLoadout instead.
-		/*Player.StartItem "Revolver";
-		Player.StartItem "Shortsword";
-		Player.StartItem "Bullets", 6;
-		Player.StartItem "BulletClip", 12;
-		Player.StartItem "ShellPack", 0;
-		Player.StartItem "TemplarChestplate";*/
-		
-		
-		Player.WeaponSlot 1, "Shortsword";
-		Player.WeaponSlot 2, "Revolver";
-		Player.WeaponSlot 3, "Trenchgun";
-
 		+THRUSPECIES
 	}
 
