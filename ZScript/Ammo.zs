@@ -17,7 +17,7 @@ Class BulletClip : SinAmmo replaces SinPistolAmmoNormal{
 		SinAmmo.Spread 1.5,1.5;
 		SinAmmo.Climb 0.4,0.4;
 		SinAmmo.Noise 4096;
-		SinAmmo.Casing "SinCasingPistol";
+		SinAmmo.Casing "";
 		SinItem.Stackable 1;
 		SinItem.RemoveWhenEmpty 1;
 	}
